@@ -1,5 +1,6 @@
 # PocketBartender
-
+<p align="center">
+<img width="130" alt="PocketBartender demo image" src="https://user-images.githubusercontent.com/5216467/147710259-9e4031ec-79f1-4631-8678-1fbe4abe463b.png"> </p>
 An android app that provides the recipe and other relevant information for any cocktail drink!
 
 ## Application
