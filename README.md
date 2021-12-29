@@ -21,6 +21,6 @@ The logs are maintained in a MongoDB Atlas Database, which is updated each time 
 
 ## Demo
 
-[PocketBartender Demo Video 1](https://www.youtube.com/watch?v=E-n0fOiNluU) <br />
-[PocketBartender Demo Video 2](https://www.youtube.com/watch?v=5jQaZ7yFnx)
+[PocketBartender Demo Video 1](https://www.youtube.com/watch?v=E-n0fOiNluU) to see the application implementation.<br />
+[PocketBartender Demo Video 2](https://www.youtube.com/watch?v=5jQaZ7yFnxE) to see the servlet implementation.
 
