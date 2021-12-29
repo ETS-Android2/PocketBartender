@@ -11,6 +11,10 @@ The web servlet is implemented as a docker container and has been deployed on He
 
 ## Dashboard
 
+For Logs Dashboard, [click here](https://floating-oasis-02268.herokuapp.com/logs)
+For Analytics Dashboard, [click here](https://floating-oasis-02268.herokuapp.com/analytics)
+
+
 A seperate dashboard has been built to keep track of user logs and analytics. The Logs Dashboard keep track of the user information like the web browser used by user to retrieve information. The Analytics Dashboard performs simple analytics on the holistic user logs and provides this data.
 
 The logs are maintained in a MongoDB Atlas Database, which is updated each time a user finds a cocktail recipe on the app. 
