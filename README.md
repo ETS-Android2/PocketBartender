@@ -11,7 +11,7 @@ The web servlet is implemented as a docker container and has been deployed on He
 
 ## Dashboard
 
-For Logs Dashboard, [click here](https://floating-oasis-02268.herokuapp.com/logs)
+For Logs Dashboard, [click here](https://floating-oasis-02268.herokuapp.com/logs). <br />
 For Analytics Dashboard, [click here](https://floating-oasis-02268.herokuapp.com/analytics)
 
 
